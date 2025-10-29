@@ -48,5 +48,10 @@
         "otazka": "Kolik bitů má jeden byte?",
         "spravna_odpoved": "8",
         "kategorie": "Informatika"
+    },
+        {
+        "otazka": "Kolik je 1+1",
+        "spravna_odpoved": "2",
+        "kategorie": "Matematika"
     }
 ]
