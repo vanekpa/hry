@@ -1,0 +1,52 @@
+[
+    {
+        "otazka": "Jaký náboj má proton?",
+        "spravna_odpoved": "kladný",
+        "kategorie": "chemie"
+    },
+    {
+        "otazka": "V jakém uměleckém stylu je vystavěna Katedrála sv. Bartoloměje?",
+        "spravna_odpoved": "gotickém",
+        "kategorie": "historie"
+    },
+    {
+        "otazka": "Jaký je vzorec pro obvod obdélníku?",
+        "spravna_odpoved": "o = 2a + 2b",
+        "kategorie": "MA"
+    },
+    {
+        "otazka": "Jak se nazývá zařízení, díky kterému můžeme tisknout dokumenty z počítače?",
+        "spravna_odpoved": "Tiskárna",
+        "kategorie": "informatika"
+    },
+    {
+        "otazka": "Co znamená slovo pumpkin?",
+        "spravna_odpoved": "dýně",
+        "kategorie": "angličtina"
+    },
+    {
+        "otazka": "Jaký slovní druh je  slovo ŠKOLENÍ?",
+        "spravna_odpoved": "podstatné jméno",
+        "kategorie": "český jazyk"
+    },
+    {
+        "otazka": "Jak se nazývá nejlehčí prvek na Zemi?",
+        "spravna_odpoved": "vodík",
+        "kategorie": "chemie"
+    },
+    {
+        "otazka": "Jak se jmenuje model Země reprezentovaný střední hladinou světových oceánů?",
+        "spravna_odpoved": "Geoid",
+        "kategorie": "geodézie"
+    },
+    {
+        "otazka": "Proč se voda vypařuje rychleji při vyšší teplotě?",
+        "spravna_odpoved": "Při vyšší teplotě mají molekuly vody více energie. Díky tomu se pohybují rychleji a snáze překonají síly, které je drží pohromadě v kapalině. Když se dostatečný počet molekul uvolní, voda se začne vypařovat.",
+        "kategorie": "Fyzika - Termodynamika"
+    },
+    {
+        "otazka": "Kolik bitů má jeden byte?",
+        "spravna_odpoved": "8",
+        "kategorie": "Informatika"
+    }
+]
