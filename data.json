@@ -54,4 +54,29 @@
         "spravna_odpoved": "2",
         "kategorie": "Matematika"
     }
+    {
+    "otazka": "Jaká je nejvyšší sopka na Zemi?",
+    "spravna_odpoved": "Ojos del Salado",
+    "kategorie": "zeměpis - sopky"
+},
+{
+    "otazka": "Která sopka způsobila největší erupci v zaznamenané historii?",
+    "spravna_odpoved": "Tambora",
+    "kategorie": "zeměpis - sopky"
+},
+{
+    "otazka": "Jaká sopka se nachází na ostrově Havaj?",
+    "spravna_odpoved": "Mauna Loa",
+    "kategorie": "zeměpis - sopky"
+},
+{
+    "otazka": "Která sopka zničila město Pompeje v roce 79 n.l.?",
+    "spravna_odpoved": "Vesuv",
+    "kategorie": "zeměpis - sopky"
+},
+{
+    "otazka": "Jak se jmenuje nejaktivnější sopka v Evropě?",
+    "spravna_odpoved": "Etna",
+    "kategorie": "zeměpis - sopky"
+}
 ]
