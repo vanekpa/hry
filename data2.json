@@ -1,0 +1,30 @@
+{
+  "vyzva": "30denní čtenářská výzva",
+  "dny": [
+    {
+      "den": 3,
+      "nazev": "Autor z jiné kultury",
+      "popis": "Vyber si knihu od autora, který pochází z jiné kultury nebo země, než je ta tvoje. Rozšiř si obzory a objev nové perspektivy."
+    },
+    {
+      "den": 4,
+      "nazev": "Oblíbený žánr",
+      "popis": "Dopřej si knihu z tvého oblíbeného žánru. Užívej si čtení, které tě nikdy neomrzí."
+    },
+    {
+      "den": 5,
+      "nazev": "Kniha s filmovou adaptací",
+      "popis": "Najdi knihu, která byla zfilmována. Přečti si ji a porovnej s filmovou verzí."
+    },
+    {
+      "den": 6,
+      "nazev": "Kniha od místního autora",
+      "popis": "Podpoř lokální autory a vyber si knihu od spisovatele z tvého regionu."
+    },
+    {
+      "den": 7,
+      "nazev": "Vizionářské dílo",
+      "popis": "Přečti si knihu, která předběhla svou dobu a představuje vizionářské myšlenky nebo koncepty."
+    }
+  ]
+}
