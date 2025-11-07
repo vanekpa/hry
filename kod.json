@@ -1,0 +1,15 @@
+{
+    "hra": {
+        "název": "Tajemná Komnata",
+        "kody": [
+            {
+                "typ": "main",
+                "hodnota": 00000
+            },
+            {
+                "typ": "main2",
+                "hodnota": 5678
+            }
+        ]
+    }
+}
